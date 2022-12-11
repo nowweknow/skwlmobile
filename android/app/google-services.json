@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "339003811697",
+    "project_id": "nowuknow-a4811",
+    "storage_bucket": "nowuknow-a4811.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339003811697:android:d0cab929f15e32d1ecb8d0",
+        "android_client_info": {
+          "package_name": "com.skwl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339003811697-0er0ci2u8rki9pgp5dp4q7mu76518mf4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skwl",
+            "certificate_hash": "ef90ee3028c43b81d392807fe030216e8fbefb84"
+          }
+        },
+        {
+          "client_id": "339003811697-4mfug0bn9t9o6kpsk0s54s409qvaiehh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgsUF7zK8alGxfWRJjiMtT_kCYoa3YD4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339003811697-4mfug0bn9t9o6kpsk0s54s409qvaiehh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "339003811697-d2iot12d1hpq68guhjgpa0c8eskagd97.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.SKWL",
+                "app_store_id": "875432786"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

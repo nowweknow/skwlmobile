@@ -1,0 +1,12 @@
+rootProject.name = 'SKWL'
+include ':react-native-blob-util'
+project(':react-native-blob-util').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-blob-util/android')
+include ':react-native-login-twitter'
+project(':react-native-login-twitter').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-login-twitter/android')
+include ':react-native-gesture-handler'
+include ':react-native-google-signin', ':app'
+project(':react-native-gesture-handler').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-gesture-handler/android')
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':app'
+include ':react-native-login-twitter'
+project(':react-native-login-twitter').projectDir = new File(rootProject.projectDir,'../node_modules/react-native-login-twitter/android')

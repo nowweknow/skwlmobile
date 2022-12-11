@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">nowUknow</string>
+    <!-- <string name="facebook_app_id">1207108863152562</string> -->
+    <string name="facebook_app_id">1292379824507248</string>
+    <!-- <string name="facebook_client_token">20e18f38f6d07fcc41bc2fe60fba19a7</string> -->
+    <string name="fb_login_protocol_scheme">fb1292379824507248</string>
+    <string name="facebook_client_token">b91f226db2b63b03d1280fa844b25e3b</string>
+
+</resources>
